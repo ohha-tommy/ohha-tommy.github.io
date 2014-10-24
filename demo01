@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+	<h1>はじめてのHTML ～Tommyの成長日記～</h1>
+
+<h2>文章の書き方（p, br）</h2>
+
+<p>とりあえずHTMLを覚えて、mod_plsqlを覚えぞ！<br/>がむばる！</p>
+
+<p>文章は p タグで囲む。うんでも途中でどーしても改行したい場合は、br タグを突っ込む</p>
+
+<h2>見出しの書き方（h1～h5）</h2>
+
+<p>見出しはh1～h5タグを使う。</p>
+
+<h2>リストの書き方（ul+li、ol+li）</h2>
+
+<p>リストは ul と li タグを使いやす。</p>
+
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+　　<li>チョコクランチ</li>
+</ul>
+
+<p>ul の代わりに ol を使うと箇条書きの頭に連番がつきやす</p>
+
+<ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+　　<li>チョコクランチ</li>
+</ol>
+
+<h2>リンクの書き方（a）</h2>
+
+<p>リンクは a タグを使いやす。たとえば google にリンクを貼るにはこう書きます。</p>
+
+<p><a href="http://www.google.com">Goolge</a></p>
+
+<p>リンク先を別ウィンドウに表示したい場合は target属性を書きます。</p>
+
+<p><a href="http://www.jma.go.jp/jp/yoho/320.html" target="_blank">天気</a></p>
+
+<h2>画像読み込みの書き方（img）</h2>
+
+<p>img タグを使います。src 属性に画像ファイルの所在を書きます。</p>
+
+<img src="http://image2.30min.jp/30min/tweet/4781/129781.jpg"/>
+
+    
+</body>
+</html>
