@@ -11,11 +11,9 @@ n\は正規表現
 
 ### jQuery Sample
 
-  jQuery(function(){
-  
-    alert('HELLO');
-  
-  });
+    jQuery(function(){
+      alert('HELLO');
+    });
 
 ### 見出しの書き方（h1～h5）
 
