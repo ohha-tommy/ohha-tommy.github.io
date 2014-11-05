@@ -11,7 +11,7 @@
 ### ジャギー
 
 	ピクセルのギザギザ
-	![ジャギ](https://ondemanga.jp/images/aa.gif)
+	![ジャギ]　(https://ondemanga.jp/images/aa.gif)
 	
 
 ### wi-fi 規格
